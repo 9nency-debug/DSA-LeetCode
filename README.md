@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
+| [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
