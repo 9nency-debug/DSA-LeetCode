@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
