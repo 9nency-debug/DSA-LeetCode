@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
