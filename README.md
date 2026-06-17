@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 ## String Matching
 |  |
