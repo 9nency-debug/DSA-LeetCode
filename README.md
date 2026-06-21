@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3838-weighted-word-mapping](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Greedy
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 ## String
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2615-sum-of-distances) |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Sorting
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Heap (Priority Queue)
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Linked List
 |  |
@@ -372,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 <!---LeetCode Topics End-->
