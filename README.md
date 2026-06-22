@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
+| [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
 |  |
