@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Doubly-Linked List
