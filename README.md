@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
