@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Number Theory
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
@@ -419,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
