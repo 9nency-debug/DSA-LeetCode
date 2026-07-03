@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
 |  |
 | ------- |
