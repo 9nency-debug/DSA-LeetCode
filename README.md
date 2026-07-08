@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -508,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
