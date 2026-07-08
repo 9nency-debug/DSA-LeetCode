@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
