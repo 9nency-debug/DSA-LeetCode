@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
