@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3838-weighted-word-mapping](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Counting
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Enumeration
 |  |
 | ------- |
