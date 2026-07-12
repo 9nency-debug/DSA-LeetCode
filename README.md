@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
 | [1424-diagonal-traverse-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
