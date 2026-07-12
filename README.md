@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2615-sum-of-distances) |
+| [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
