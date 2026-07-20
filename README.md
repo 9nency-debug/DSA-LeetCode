@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1861-rotating-the-box) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
