@@ -1,13 +1,33 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        int pos1 = nums[n - 1] * nums[n - 2] * nums[n - 3];
-        int pos2 = nums[0] * nums[1] * nums[n - 1];
-        return max(pos1, pos2);
+        // Without sorting
+        int max1 = INT_MIN;
+        int max2 = INT_MIN;
+        int max3 = INT_MIN;
+        int min1 = INT_MAX;
+        int min2 = INT_MAX;
+        for (int n : nums) {
+            if (n >= max1) {
+                max3 = max2;
+                max2 = max1;
+                max1 = n;
+            } else if (n >= max2) {
+                max3 = max2;
+                max2 = n;
+            } else if (n >= max3) {
+                max3 = n;
+            }
+
+            //for 2 small elements
+            if (n <= min1) {
+                min2 = min1;
+                min1 = n;
+            }
+            else if (n <= min2) {
+                min2 = n;
+            }
+        }
+        return max(max1 * max2 * max3, max1 * min1 * min2);
     }
 };
-
-// TC : O(nlog n)
- 
