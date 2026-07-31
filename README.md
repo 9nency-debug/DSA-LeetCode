@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
