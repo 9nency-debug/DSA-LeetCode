@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -659,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
