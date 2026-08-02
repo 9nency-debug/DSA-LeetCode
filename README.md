@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
+| [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Backtracking
 |  |
