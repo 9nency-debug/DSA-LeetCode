@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0796-rotate-string) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
