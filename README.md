@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Backtracking
 |  |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
