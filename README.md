@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Binary Indexed Tree
 |  |
