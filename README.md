@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1206-design-skiplist) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1206-design-skiplist) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Two Pointers
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Math
 |  |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -662,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Counting Sort
