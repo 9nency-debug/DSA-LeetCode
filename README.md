@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
