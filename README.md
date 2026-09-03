@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
