@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
