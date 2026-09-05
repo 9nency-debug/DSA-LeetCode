@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
