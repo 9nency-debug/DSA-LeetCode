@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Hash Table
 |  |
@@ -657,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Tree
 |  |
 | ------- |
@@ -729,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -762,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -920,8 +928,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 <!---LeetCode Topics End-->
