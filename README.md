@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0835-image-overlap](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1345-jump-game-iv) |
@@ -390,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
@@ -707,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
