@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -878,4 +883,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
