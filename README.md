@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -849,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
