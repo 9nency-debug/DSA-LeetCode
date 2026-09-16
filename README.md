@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0835-image-overlap](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0835-image-overlap) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0707-design-linked-list) |
+| [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [1206-design-skiplist](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
