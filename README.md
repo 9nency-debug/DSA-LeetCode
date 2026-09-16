@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
+| [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1510-stone-game-iv) |
@@ -773,12 +775,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1395-count-number-of-teams) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
