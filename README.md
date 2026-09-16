@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0835-image-overlap](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0835-image-overlap) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0788-rotated-digits](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -770,11 +772,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
@@ -946,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
