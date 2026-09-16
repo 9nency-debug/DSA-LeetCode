@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0327-count-of-range-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
 | [1306-jump-game-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1306-jump-game-iii) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0835-image-overlap](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
@@ -900,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -982,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1003,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Dijkstra's Algorithm
 |  |
@@ -1012,4 +1020,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
