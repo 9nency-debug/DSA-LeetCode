@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Combinatorics
