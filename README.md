@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1424-diagonal-traverse-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Geometry
@@ -986,4 +990,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Topological Sort
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
