@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1340-jump-game-v) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1004,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
