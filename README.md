@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
