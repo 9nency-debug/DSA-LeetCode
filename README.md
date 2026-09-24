@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
