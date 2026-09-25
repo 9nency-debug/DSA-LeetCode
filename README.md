@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0097-interleaving-string) |
