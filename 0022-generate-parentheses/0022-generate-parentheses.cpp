@@ -1,27 +1,17 @@
 class Solution {
 public:
-vector<string> res;
-void f(int a, int b, int p, string &s) {
-    if(a==0 && b==0) {
-        res.push_back(s);
-        return;
-        }
-        if(a) {
-            s.push_back('(');
-            f(a-1, b, p+1, s);
-            s.pop_back();
-        }
-        if(b) {
-            if(p) {
-                s.push_back(')');
-                f(a, b-1, p-1, s);
-                s.pop_back();
+    vector<string> generateParenthesis(int n) {
+        vector<vector<string>> dp(n + 1);
+        dp[0].push_back("");
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < i; j++) {
+                for (string& a : dp[j]) {
+                    for (string& b : dp[i - 1 - j]) {
+                        dp[i].push_back("(" + a + ")" + b);
+                    }
+                }
             }
         }
-}
-    vector<string> generateParenthesis(int n) {
-        string s;
-        f(n, n, 0, s);
-        return res;
+        return dp[n];
     }
 };
