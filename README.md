@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0472-concatenated-words](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0472-concatenated-words) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0752-open-the-lock](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0752-open-the-lock) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Graph Theory
