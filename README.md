@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
