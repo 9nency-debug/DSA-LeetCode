@@ -64,9 +64,11 @@ public:
                 arr[i] = squares[left++];
             }
         }
-        
+
         // Calls solve(arr, 0)
         // solve(arr, 0) = 16
         return solve(arr, 0);
     }
 };
+
+// TC: O(n logn)
