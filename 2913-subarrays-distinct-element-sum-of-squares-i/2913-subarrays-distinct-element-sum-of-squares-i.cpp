@@ -1,19 +1,18 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-        vector<vector<int>>arr;
-        for(int i=0;i<nums.size();i++){
-        for(int j=i;j<nums.size();j++){
-        vector<int>a;
-        for(int k=i;k<=j;k++){
-        a.push_back(nums[k]);}
-        arr.push_back(a);} }
-        for(int i=0;i<arr.size();i++){
-        for(int j=0;j<arr[i].size();j++){
-        sort(arr[i].begin(),arr[i].end());
-        arr[i].erase(unique(arr[i].begin(),arr[i].end()),arr[i].end());}}
-        int temp=0;
-      for(auto i:arr){
-          temp+=i.size()*i.size();}  
-    return temp;}
+        static bitset<101> seen;
+        int n=nums.size(), ans=0;
+        for(int l=0; l<n; l++){
+            seen.reset();
+            int cnt=0;
+            for(int r=l; r<n; r++){
+                int x=nums[r];
+                cnt+=(seen[x]==0); 
+                seen[x]=1;
+                ans+=cnt*cnt;
+            } 
+        }
+        return ans;
+    }
 };
