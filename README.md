@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0396-rotate-function) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
