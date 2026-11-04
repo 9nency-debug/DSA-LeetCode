@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2326-spiral-matrix-iv](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2574-left-and-right-sum-differences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Counting Sort
 |  |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Binary Search Tree
 |  |
 | ------- |
