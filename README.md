@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3660-jump-game-ix](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
