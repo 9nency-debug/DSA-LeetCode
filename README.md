@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1670-design-front-middle-back-queue](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1670-design-front-middle-back-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3161-block-placement-queries) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1032,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2296-design-a-text-editor](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2296-design-a-text-editor) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1065,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/9nency-debug/DSA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/9nency-debug/DSA-LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
