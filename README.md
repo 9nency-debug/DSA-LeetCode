@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1242,11 +1245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1275,4 +1280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/9nency-debug/DSA-LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/9nency-debug/DSA-LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
